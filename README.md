@@ -1,5 +1,4 @@
 # SCCS
-Structural Consistency-Based Causal Structure Learning from Multi-source Data Under Unknown Alignment Between Variables
+Tackling Identity Blindness in Multi-source Causal Structure Learning via Structural Consistency
 
-
-This source code accompanies the paper *"Structural Consistency-Based Causal Structure Learning from Multi-source Data Under Unknown Alignment Between Variables"* (submitted to *Science China*).  We will make our code publicly available upon acceptance.
+This source code accompanies the paper *"Tackling Identity Blindness in Multi-source Causal Structure Learning via Structural Consistency"* (submitted to *Information Sciences*).  We will make our code publicly available upon acceptance.
